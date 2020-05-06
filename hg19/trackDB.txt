@@ -7,7 +7,7 @@ type bigBed
 track roadmap_softclip7
 bigDataUrl sites_sc7.bb
 shortLabel roadmap sc7 PAS
-longLabel PAS from Roadmap. Window 5 bp, SoftClip=7bp, density per million reads supprting PAS (>0.5)
+longLabel PAS from Roadmap. Window 5 bp, SoftClip=7bp, density per million reads supprting PAS (>0.1)
 type bigBed
 
 track PolyA_atlas
