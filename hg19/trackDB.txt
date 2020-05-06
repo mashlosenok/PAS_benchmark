@@ -1,24 +1,24 @@
 track roadmap_win5
 bigDataUrl roadmap_win5.bb
 shortLabel roadmap PAS
-longLabel PAS from roadmap. Window 5 bp, density per million reads supprting PAS
+longLabel PAS from Roadmap. Window 5 bp, density per million reads supprting PAS
 type bigBed
 
 track roadmap_softclip7
 bigDataUrl sites_sc7.bb
 shortLabel roadmap sc7 PAS
-longLabel PAS from roadmap. Window 5 bp, density per million reads supprting PAS, smallest filtered out 
+longLabel PAS from Roadmap. Window 5 bp, SoftClip=7bp, density per million reads supprting PAS, smallest filtered out 
 type bigBed
 
 track PolyA_atlas
 bigDataUrl atlas_sites_bil.bb
 shortLabel atlas PAS
-longLabel PAS from five mammals polyadenylation Atlas. Density per million reads, from score
+longLabel PAS from five mammals polyA atlas. Density per million reads, from score
 type bigBed
 
 track PolyA_atlas_motif
 bigDataUrl atlas_sites_motif.bb
 shortLabel atlas_motif_PAS
-longLabel PAS with ~AATAAA motif in upstream, five mammals polyadenylation Atlas. Density per million reads, from score
+longLabel PAS with ~AATAAA motif in upstream, five mammals polyA atlas. Density per million reads, from score
 type bigBed
 
