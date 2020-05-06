@@ -9,3 +9,9 @@ bigDataUrl atlas_sites_bil.bb
 shortLabel atlas PAS
 longLabel PAS from five mammals polyadenylation Atlas. Density per million reads, from score
 type bigBed
+
+track PolyA_atlas_motif
+bigDataUrl atlas_sites_motifs.bb
+shortLabel atlas_motif_PAS
+longLabel PAS with ~AATAAA motif in upstream, five mammals polyadenylation Atlas. Density per million reads, from score
+type bigBed
