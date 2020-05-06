@@ -1,0 +1,5 @@
+track roadmap
+bigDataUrl sites.bb
+shortLabel roadmap PAS
+longLabel PAS from roadmap epigenomics data
+type bigBed
