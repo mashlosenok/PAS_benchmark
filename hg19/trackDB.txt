@@ -6,6 +6,6 @@ type bigBed
 
 track PolyA_atlas
 bigDataUrl atlas_sites_bil.bb
-shortLabel roadmap PAS
+shortLabel atlas PAS
 longLabel PAS from five mammals polyadenylation Atlas. Density per million reads, from score
 type bigBed
