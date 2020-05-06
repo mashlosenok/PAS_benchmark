@@ -22,3 +22,14 @@ shortLabel atlas_motif_PAS
 longLabel PAS with ~AATAAA motif in upstream, five mammals polyA atlas. Density per million reads, from score
 type bigBed
 
+track CLL_RNAseq_sites
+bigDataUrl cll_rna_win5.bb
+shortLabel CLL_RNAseq_PAS
+longLabel PAS from CLL Mayr Lab data. Window 5bp. Density per million reads
+type bigBed
+
+track CLL_3seq
+bigDataUrl cll_3seq_bil.bb
+shortLabel CLL_3seq_islands
+longLabel Islands from 3'seq CLL Mayr Lab data. Density per billion reads
+type bigBed
