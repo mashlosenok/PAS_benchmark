@@ -1,0 +1,5 @@
+hub PAS_benchmark
+shortLabel PAS_benchmark
+longLabel identification of PAS from RNA-seq Benchmark
+genomesFile genomes.txt
+email mariia.vlasenok@skoltech.ru
