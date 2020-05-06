@@ -1,5 +1,5 @@
-track roadmap
-bigDataUrl sites.bb
+track roadmap_win5
+bigDataUrl roadmap_win5.bb
 shortLabel roadmap PAS
-longLabel PAS from roadmap epigenomics data
+longLabel PAS from roadmap. Window 5 bp, density per billion reads supprting PAS
 type bigBed
