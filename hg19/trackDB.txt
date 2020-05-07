@@ -36,12 +36,12 @@ type bigBed
 
 track CLL_3seq_bw_rev
 bigDataUrl merg_3seq_3end_gene_strand_rev.bw
-shortLabel CLL_3seq_bigwig_rev
+shortLabel CLL_3seq_rev
 longLabel Coverage of 3'ends of reads in CLL Mayr data. Strand from intersecting gene
 type bigWig 
 
 track CLL_3seq_bw_fw
 bigDataUrl merg_3seq_3end_gene_strand_fw.bw
-shortLabel CLL_3seq_bigwig_for
+shortLabel CLL_3seq_for
 longLabel Coverage of 3'ends of reads in CLL Mayr data. Strand from intersecting gene
 type bigWig 
