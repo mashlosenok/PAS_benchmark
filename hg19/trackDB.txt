@@ -28,6 +28,12 @@ shortLabel CLL_RNAseq_PAS
 longLabel PAS from CLL Mayr Lab data. Window 5bp. Density per million reads
 type bigBed
 
+track CLL_RNAseq_sites_noclip
+bigDataUrl cll_rna_win5_noclip.bb
+shortLabel CLL_RNAseq_PAS_STAR
+longLabel PAS from CLL Mayr Lab data. Window 5bp. 
+type bigBed
+
 track CLL_RNAseq_sites_Aclip
 bigDataUrl cll_rna_win5_Aclip.bb
 shortLabel CLL_RNAseq_PAS_AA
