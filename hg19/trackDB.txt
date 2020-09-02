@@ -52,6 +52,12 @@ shortLabel CLL_3seq_islands
 longLabel Islands from 3'seq CLL Mayr Lab data. Density per billion reads
 type bigBed
 
+track CLL_3seq_filt10
+bigDataUrl merg_3seq_3end_gene_strand_filt10_islands.bb
+shortLabel CLL_3seq_f10_islands
+longLabel Islands from 3'seq CLL Mayr Lab data. min 10reads
+type bigBed
+
 track CLL_3seq_bw_rev
 bigDataUrl merg_3seq_3end_gene_strand_rev.bw
 shortLabel CLL_3seq_rev
