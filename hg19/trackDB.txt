@@ -10,6 +10,12 @@ shortLabel roadmap point PAS
 longLabel point PAS from Roadmap. 
 type bigBed
 
+track roadmap_point_f1
+bigDataUrl sites_signal_f1.bb
+shortLabel roadmap point filt PAS
+longLabel point PAS from Roadmap:d>1,signal
+type bigBed
+
 track roadmap_softclip7
 bigDataUrl sites_sc7.bb
 shortLabel roadmap sc7 PAS
