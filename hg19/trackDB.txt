@@ -1,3 +1,9 @@
+track GTEx_PAS_ent2
+bigDataUrl gtex_ent2.bb
+shortLabel GTEx_PAS_ent2
+longLabel GTEx PAS, filtered by entropy, not clustered, info on signal and total counts 
+type bigBed
+
 track roadmap_win5
 bigDataUrl roadmap_win5.bb
 shortLabel roadmap PAS
@@ -33,6 +39,8 @@ bigDataUrl atlas_sites_motif.bb
 shortLabel atlas_motif_PAS
 longLabel PAS with ~AATAAA motif in upstream, five mammals polyA atlas. Density per million reads, from score
 type bigBed
+
+
 
 track CLL_RNAseq_sites
 bigDataUrl cll_rna_win5.bb
