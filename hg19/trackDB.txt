@@ -4,6 +4,12 @@ shortLabel GTEx_PAS_ent2
 longLabel GTEx PAS, filtered by entropy, not clustered, info on signal and total counts 
 type bigBed
 
+track PolyASite_2.0
+bigDataUrl atlas20.bb
+shortLabel PolyASite_2.0
+longLabel PolyASite 2.0 atlas, info average expression (tags per million, tpm)   
+type bigBed
+
 track roadmap_win5
 bigDataUrl roadmap_win5.bb
 shortLabel roadmap PAS
