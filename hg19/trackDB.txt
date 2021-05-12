@@ -1,6 +1,6 @@
-track GTEx_PAS_pool_ent4
-bigDataUrl gtex_pool_ent4.bb
-shortLabel GTEx_PAS_poolE4
+track GTEx_PAS_pool_ent3
+bigDataUrl gtex_pool_ent3.bb
+shortLabel GTEx_PAS_poolE3
 longLabel GTEx PAS, filtered by pooled entropy, not clustered, info on signal and total counts 
 type bigBed
 
