@@ -1,13 +1,19 @@
+track GTEx_PAS_pool_ent2.5
+bigDataUrl gtex_pool_ent2.5.bb
+shortLabel GTEx_PAS_poolE2.5
+longLabel GTEx PAS, filtered by pooled entropy>=2.5, not clustered, info on signal and total counts 
+type bigBed
+
 track GTEx_PAS_pool_ent3
 bigDataUrl gtex_pool_ent3.bb
 shortLabel GTEx_PAS_poolE3
-longLabel GTEx PAS, filtered by pooled entropy, not clustered, info on signal and total counts 
+longLabel GTEx PAS, filtered by pooled entropy>=3, not clustered, info on signal and total counts 
 type bigBed
 
 track GTEx_PAS_ent2
 bigDataUrl gtex_ent2.bb
 shortLabel GTEx_PAS_ent2
-longLabel GTEx PAS, filtered by entropy, not clustered, info on signal and total counts 
+longLabel GTEx PAS, filtered by sample entropy>=2, not clustered, info on signal and total counts 
 type bigBed
 
 track PolyASite_2.0
