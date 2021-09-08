@@ -1,3 +1,9 @@
+track GTEx_PAS_pool_off6_ent2_qfilt
+bigDataUrl gtex_off6_entropy_2_qfilt.bb
+shortLabel GTEx_PAS_offset6_ent2_qfilt
+longLabel GTEx PAS, reads filtered by sequencing quality, pas filtered by pooled entropy>=2, not clustered 
+type bigBed
+
 track GTEx_PAS_pool_ent2.5
 bigDataUrl gtex_pool_ent2.5.bb
 shortLabel GTEx_PAS_poolE2.5
